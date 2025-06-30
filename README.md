@@ -18,7 +18,7 @@ O objetivo principal deste projeto é desenvolver e comparar diferentes algoritm
 
 A análise completa, desde a limpeza dos dados até a construção e avaliação dos modelos, está documentada no notebook Jupyter abaixo:
 
-* **[Predição de Churn em Empresas de Telecomunicações](Análise_de_Churn.ipynb)** *
+**[Predição de Churn em Empresas de Telecomunicações](Análise_de_Churn.ipynb)**
 
 ## 📊 Resultados e Conclusões
 
